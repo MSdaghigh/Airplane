@@ -1,0 +1,50 @@
+body {
+	background-image:url('/c:/users/sadra/Downloads/Airplane.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+div {
+	border: 2px solid black ;
+	padding: 16px;
+	margin: 45px;
+	margin-bottom: 20px ;
+	border-style: none;
+	background-color: rgba(0 , 0, 0, 0.9);
+	color: orange;
+	text-align: center;
+	font-family: Arial , sans-serif;
+	font-size: 18px;
+}
+
+input {
+	margin-bottom: 2px;
+	text-align: center;
+	font-size: 14px;
+}
+
+input.reserved {
+	background-color: green;
+}
+
+table {
+	width: 93.5%;
+	margin-left: 45px;
+	margin-right: 45px;
+}
+
+table,th,td  {
+	border: 4px solid white;
+	border-collapse: collapse;
+	border-style: none;
+	padding: 16px;
+	text-align: center;
+    font-family: Calibri , sans-serif;
+    color: white;
+}
+
+hr {
+	  border: 1px solid orange;
+	  border-radius: 200px;
+}
